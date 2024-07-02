@@ -8,7 +8,14 @@
 
 
 ## Description
-This project is a robust backend built with ExpressJS and MongoDB, designed to handle a variety of operations for a social media-like platform. It includes user controllers that manage registration, login, logout, and other user-related functionalities. The video controller allows users to perform CRUD operations on videos. Similarly, users can create, read, update, and delete comments and tweets. The like controller enables users to like videos, comments, and tweets, enhancing user interaction and engagement. Additionally, a dashboard controller provides an overview of user activities and interactions. This backend serves as a solid foundation for a future frontend, paving the way for a full-stack social media application.
+This is a robust backend project that is built with nodejs, expressjs, mongodb, mongoose, jwt, bcrypt, cloudinary and many more that are specially designed to handle a variety of operations for a social media-like platform.
+It includes user controllers that manage registration, login, logout, and other user-related functionalities. 
+The video controller allows users to perform CRUD operations on videos. Similarly, users can create, read, update, and delete comments and tweets. 
+The like controller enables users to like videos, comments, and tweets, enhancing user interaction and engagement. 
+Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tokens and many more.
+It serves as a complete video hosting website similar to youtube with all the features like login, signup, upload video, like, dislike, comment, reply, subscribe, unsubscribe, and has features of twitter alongside hence the name youter(youtube + twitter).
+
+
 
 ## Data model
 - [Model link](https://app.eraser.io/workspace/0sis4adx07X4m7jpPVDN?origin=share)
